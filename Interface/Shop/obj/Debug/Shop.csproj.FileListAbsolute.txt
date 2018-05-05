@@ -1,0 +1,2 @@
+D:\C#\FinalModule\Interface\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\C#\FinalModule\Interface\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache

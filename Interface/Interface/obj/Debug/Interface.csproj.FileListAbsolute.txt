@@ -1,0 +1,9 @@
+D:\C#\FinalModule\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\C#\FinalModule\Interface\Interface\bin\Debug\Interface.exe.config
+D:\C#\FinalModule\Interface\Interface\bin\Debug\Interface.exe
+D:\C#\FinalModule\Interface\Interface\bin\Debug\Interface.pdb
+D:\C#\FinalModule\Interface\Interface\bin\Debug\Shop.dll
+D:\C#\FinalModule\Interface\Interface\bin\Debug\Shop.pdb
+D:\C#\FinalModule\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\C#\FinalModule\Interface\Interface\obj\Debug\Interface.exe
+D:\C#\FinalModule\Interface\Interface\obj\Debug\Interface.pdb
